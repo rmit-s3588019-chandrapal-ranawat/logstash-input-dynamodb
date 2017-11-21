@@ -108,7 +108,7 @@ gem "logstash-input-dynamodb"
 To install the plugin, in your logstash folder type the command:
 
 ```
-bin/plugin install --no-verify logstash-input-dynamodb
+bin/logstash-plugin install --no-verify logstash-input-dynamodb
 ```
 
 To list all the installed plugins type the following command:
